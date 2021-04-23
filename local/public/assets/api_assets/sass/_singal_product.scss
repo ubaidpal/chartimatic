@@ -1,0 +1,128 @@
+.singal_product{
+	position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+	width: 50%;
+    box-sizing: border-box;
+	float:left;
+	
+	.pro-container{
+		position: relative;
+		border-right: 1px solid #e2e2e2;
+		border-bottom: 1px solid #e2e2e2;
+		
+		.photo{ padding: 5px;
+			img {margin: 0 auto;}
+		}
+		
+		.b-name { padding:0 5px;
+			h1{ text-transform: uppercase;
+				font-size: 16px;
+				font-weight: bold;
+				padding: 0px;
+				border-bottom: 2px solid #00aeef;
+				margin: 5px 0px;
+				color:#00aeef;
+				
+				&:hover{text-decoration:none;}
+				}
+		}
+		.info { overflow: hidden; padding:0px 5px;
+			.pro-detial{ padding:0px;
+				p { color: #333333; margin: 6px 0; font-size:16px;}
+			}
+			
+			.price-wrapper{ overflow:hidden;
+				.price{ margin-top:3px; overflow:hidden;
+					h3{font-size:20px; color:#1d81dd; display:inline-block; margin:0;}
+					sub{ font-family:sans-serif, arial; color:#666666; text-decoration:line-through; font-size:14px; float: right; margin-top: 8px;}
+				}
+				.disc-badge{ float:left; margin-top:5px; padding:5px; border:2px solid #ed1c24; color:#ed1c24; font-size:14px;  text-transform:uppercase;}
+			}
+		}
+		}
+}
+.reviews-wrapper{
+	overflow:hidden;
+	margin:5px;
+/****** Style Star Rating Widget *****/
+
+.rating { 
+  border: none;
+  float: left;
+  margin-left: -5px;
+  padding:0;
+}
+
+.rating > input { display: none; } 
+.rating > label:before { 
+  margin: 3px;
+  font-size: 1.25em;
+  font-family: FontAwesome;
+  display: inline-block;
+  content: "\f005";
+}
+
+.rating > .half:before { 
+  content: "\f089";
+  position: absolute;
+}
+
+.rating > label { 
+  color: #ddd; 
+ float: right; 
+}
+
+/***** CSS Magic to Highlight Stars on Hover *****/
+
+.rating > input:checked ~ label, /* show gold star when clicked */
+.rating:not(:checked) > label:hover, /* hover current star */
+.rating:not(:checked) > label:hover ~ label { color: #FFD700;  } /* hover previous stars in list */
+
+.rating > input:checked + label:hover, /* hover current star when changing rating */
+.rating > input:checked ~ label:hover,
+.rating > label:hover ~ input:checked ~ label, /* lighten current selection */
+.rating > input:checked ~ label:hover ~ label { color: #FFED85;  } 	
+
+span{     font-family: sans-serif, arial; font-size: 12px; color: #666666; float: left; padding: 0px;}
+
+}
+
+.shape{    
+    border-style: solid; border-width: 0px 0 46px 46px; height: 0px; width: 0px; position:absolute;
+    -webkit-transform: rotate(180deg);  
+    -moz-transform: rotate(180deg);  
+    -o-transform: rotate(180deg);  
+    transform: rotate(180deg); 
+	
+	&.discount{ border-color:transparent transparent #ff7200 transparent;}
+	&.new{ border-color:transparent transparent #3fe206 transparent;}
+	&.hot{ border-color:transparent transparent #ed1651 transparent;}
+}
+
+.shape-text{
+    color:#fff; font-size:9px; position:relative;
+	display: table-cell;
+    font-family: sans-serif, arial;
+    font-style: italic;
+    height: 20px;
+    left: -21px;
+    text-transform: lowercase;
+    top: 21px;
+    vertical-align: middle;
+	
+	-ms-transform:rotate(30deg); /* IE 9 */
+	-o-transform: rotate(360deg);  /* Opera 10.5 */
+	-webkit-transform:rotate(46deg); /* Safari and Chrome */
+	transform: rotate(180deg);
+}
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.row {
+	margin-left: -15px;
+	margin-right: -15px;
+}

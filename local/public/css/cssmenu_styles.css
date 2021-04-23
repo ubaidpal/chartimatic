@@ -1,0 +1,207 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+#cssmenu,
+#cssmenu ul,
+#cssmenu ul li,
+#cssmenu ul li a,
+#cssmenu #menu-button {
+  margin: 0;
+  padding:0;
+  width:100%;
+  border: 0;
+  list-style: none;
+  line-height: 1;
+  display: block;
+  position: relative;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+    color: #ee4b08;
+}
+
+/*#cssmenu:after,
+#cssmenu > ul:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}*/
+#cssmenu #menu-button {
+  display: none;
+}
+#cssmenu {
+    
+	background: url(../images/profile_down_arrow.png) no-repeat;
+	background-position:10px center;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	float: right;
+
+}
+#cssmenu > ul {
+	float:left !important;
+	padding-top: 0px !important;
+}
+
+#cssmenu.align-right > ul > li {
+  float: right;
+}
+#cssmenu > ul > li {
+  float: left;
+  display: inline-block;
+  padding-bottom:30px;
+}
+
+
+
+#cssmenu ul ul {
+/*  background: url(../images/profiledropdown.png) no-repeat;*/
+  width:147px;
+  height:120px;
+  position: absolute;
+  left: -9999px;
+  padding-top: 0px !important;
+  font-size: 14px;
+  opacity: 0;
+  z-index: 100;
+    background-color: #f5f5f5;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border:1px solid #d5d5d5;
+  border-top:none;
+}
+/*#cssmenu ul ul:after 
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 0 8px 15px;
+border-color: #fff transparent;
+display: block;
+width: 0;
+z-index: 1;
+top: -15px;
+left: 120px;
+}
+#cssmenu ul ul:before 
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 0 9px 15px;
+border-color: #8b8b8b transparent;
+display: block;
+width: 0;
+z-index: 0;
+top: -16px;
+left: 119px;
+}
+*/
+
+#cssmenu.align-center > ul {
+  float: none;
+  text-align: center;
+}
+#cssmenu.align-center > ul > li {
+  float: none;
+}
+#cssmenu.align-center ul ul {
+  text-align: left;
+}
+#cssmenu > ul > li > a {
+
+
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 700;
+  color: #ee4b08;
+}
+#cssmenu > ul > li:hover > a,
+#cssmenu > ul > li > a:hover,
+#cssmenu > ul > li.active > a {
+  color: #ee4b08;
+}
+#cssmenu > ul > li.has-sub > a {
+  padding-right: 45px;
+}
+
+
+#cssmenu.align-right ul ul {
+  text-align: right;
+}
+
+#cssmenu > ul > li > ul {
+  top: 120px;
+}
+#cssmenu > ul > li:hover > ul {
+top: 30px;
+  left: -128px;
+  opacity: 1;
+}
+.top_user_name:hover + #cssmenu > ul > li > ul {
+top: 30px;
+  left: -128px;
+  opacity: 1;
+}
+#cssmenu.align-right > ul > li:hover > ul {
+  left: auto;
+  right: 0;
+}
+#cssmenu ul ul ul {
+  padding-top: 0;
+  padding-left: 6px;
+}
+#cssmenu.align-right ul ul ul {
+  padding-right: 6px;
+}
+#cssmenu ul ul > li:hover > ul {
+  left: 180px;
+  top: 27px;
+  opacity: 1;
+}
+#cssmenu ul ul > li:hover{
+  color:#fff;
+  background:#ee4b08;
+}
+/*#cssmenu ul ul > li:first-child:hover{
+  color:#fff;
+  background:#ee4b08;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}*/
+#cssmenu ul ul > li:last-child:hover{
+  color:#fff;
+  background:#ee4b08;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+#cssmenu.align-right ul ul > li:hover > ul {
+  left: auto;
+  right: 100%;
+  opacity: 1;
+}
+#cssmenu ul ul li a {
+  	
+  text-decoration: none;
+  font-weight: 400;
+  padding: 12px 15px 14px;
+  color: #000;
+}
+#cssmenu ul ul li{
+  	border-bottom:1px solid #dddddd;
+}
+#cssmenu ul ul li:last-child{
+	border-bottom:none;
+}
+#cssmenu ul ul li:hover > a,
+#cssmenu ul ul li.active > a {
+  color: #fff;
+}
+#cssmenu ul ul li:first-child > a {
+
+}
+#cssmenu ul ul li:last-child > a {
+
+}

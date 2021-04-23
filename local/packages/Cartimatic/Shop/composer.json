@@ -1,0 +1,23 @@
+{
+  "name": "cartimatic/shop",
+  "description": "Point of Sale: Shops",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Muhammad Yasir",
+      "email": "yasir9398@gmail.com"
+    },
+    {
+      "name": "Zahid Khurshid",
+      "email": "zaars59208@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Cartimatic\\Shop\\": "packages/Cartimatic/Shop/src"
+    }
+  }
+}

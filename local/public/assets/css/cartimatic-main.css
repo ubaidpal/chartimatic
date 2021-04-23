@@ -1,0 +1,313 @@
+/*Theames Color*/
+/*Text Colors*/
+/* This file includes all the font families of kinnect2*/
+/* Cartimatic header css */
+.header-wrapper {
+  background-color: #ffffff;
+  box-shadow: 0px 1px 1px #e2e2e2;
+  min-height: 140px;
+  margin-bottom: 30px; }
+  .header-wrapper .header-content-wrapper {
+    width: 1170px;
+    margin: 0 auto;
+    overflow: hidden; }
+    .header-wrapper .header-content-wrapper .logo-box {
+      float: left;
+      width: 300px;
+      line-height: normal;
+      padding-top: 38px; }
+      .header-wrapper .header-content-wrapper .logo-box h1 {
+        font-family: 'montserrat-bold';
+        font-size: 28px;
+        color: #4d82b8;
+        letter-spacing: 5px;
+        text-transform: uppercase; }
+      .header-wrapper .header-content-wrapper .logo-box h4 {
+        font-family: 'montserrat-regular';
+        font-size: 12px;
+        color: #666666;
+        text-transform: uppercase; }
+    .header-wrapper .header-content-wrapper .nav-box {
+      float: left;
+      padding-top: 45px;
+      width: 870px; }
+      .header-wrapper .header-content-wrapper .nav-box .nav-links-wrapper {
+        height: 35px; }
+        .header-wrapper .header-content-wrapper .nav-box .nav-links-wrapper a {
+          float: left;
+          position: relative;
+          font-size: 14px;
+          font-family: 'montserrat-regular';
+          color: #333333;
+          margin-right: 45px;
+          text-transform: uppercase;
+          text-decoration: none; }
+          .header-wrapper .header-content-wrapper .nav-box .nav-links-wrapper a span {
+            position: absolute;
+            right: 0;
+            top: 0; }
+          .header-wrapper .header-content-wrapper .nav-box .nav-links-wrapper a:last-child {
+            margin-right: 0; }
+        .header-wrapper .header-content-wrapper .nav-box .nav-links-wrapper .cp-box {
+          float: right;
+          overflow: hidden; }
+          .header-wrapper .header-content-wrapper .nav-box .nav-links-wrapper .cp-box .country {
+            float: left; }
+            .header-wrapper .header-content-wrapper .nav-box .nav-links-wrapper .cp-box .country select {
+              border: none;
+              margin-right: 10px; }
+            .header-wrapper .header-content-wrapper .nav-box .nav-links-wrapper .cp-box .country:after {
+              content: '|';
+              color: #5c5c5c; }
+          .header-wrapper .header-content-wrapper .nav-box .nav-links-wrapper .cp-box .ct {
+            float: left;
+            padding-left: 10px; }
+            .header-wrapper .header-content-wrapper .nav-box .nav-links-wrapper .cp-box .ct select {
+              border: none; }
+      .header-wrapper .header-content-wrapper .nav-box .search-area {
+        float: left;
+        border-top: 2px solid #f1f1f1;
+        padding-top: 12px;
+        overflow: hidden;
+        width: 720px; }
+        .header-wrapper .header-content-wrapper .nav-box .search-area .search-wrapper {
+          float: left;
+          background-color: #f0f0f0;
+          padding-left: 10px; }
+          .header-wrapper .header-content-wrapper .nav-box .search-area .search-wrapper input, .header-wrapper .header-content-wrapper .nav-box .search-area .search-wrapper select, .header-wrapper .header-content-wrapper .nav-box .search-area .search-wrapper button {
+            border: none; }
+          .header-wrapper .header-content-wrapper .nav-box .search-area .search-wrapper button {
+            height: 34px;
+            width: 34px;
+            text-indent: -99999px;
+            cursor: pointer;
+            background: #4d82b8 url(../images/cartimatic/search-icon.png) center center no-repeat; }
+          .header-wrapper .header-content-wrapper .nav-box .search-area .search-wrapper .select-category {
+            float: left;
+            position: relative;
+            margin-right: 10px;
+            border-right: 2px solid #d0d0d0; }
+            .header-wrapper .header-content-wrapper .nav-box .search-area .search-wrapper .select-category:after {
+              content: '';
+              width: 0;
+              height: 0;
+              border-left: 4px solid transparent;
+              border-right: 4px solid transparent;
+              border-top: 6px solid #999999;
+              position: absolute;
+              top: 14px;
+              right: 10px; }
+            .header-wrapper .header-content-wrapper .nav-box .search-area .search-wrapper .select-category select {
+              color: #0c0c0c;
+              background-color: #f0f0f0;
+              height: 34px;
+              -webkit-appearance: none;
+              -moz-appearance: none;
+              appearance: none;
+              padding-right: 10px;
+              margin-right: 10px;
+              min-width: 120px; }
+          .header-wrapper .header-content-wrapper .nav-box .search-area .search-wrapper input {
+            background-color: #f0f0f0;
+            height: 32px;
+            min-width: 298px; }
+        .header-wrapper .header-content-wrapper .nav-box .search-area .loign-wishlist {
+          float: left;
+          overflow: hidden;
+          padding-top: 8px;
+          line-height: normal;
+          padding-left: 15px; }
+          .header-wrapper .header-content-wrapper .nav-box .search-area .loign-wishlist a {
+            font-family: 'montserrat-regular';
+            font-size: 14px;
+            color: #333333;
+            margin-left: 15px; }
+      .header-wrapper .header-content-wrapper .nav-box .cart-wrapper {
+        width: 150px;
+        height: 60px;
+        background: #4d82b8;
+        float: right;
+        padding: 10px 15px;
+        box-sizing: border-box; }
+        .header-wrapper .header-content-wrapper .nav-box .cart-wrapper .total-amount {
+          font-size: 18px;
+          text-align: left;
+          color: #ffffff;
+          padding-bottom: 6px; }
+        .header-wrapper .header-content-wrapper .nav-box .cart-wrapper a {
+          font-size: 14px;
+          text-align: left;
+          color: #ffffff; }
+
+@font-face {
+  font-family: 'montserrat-regular';
+  src: url("../fonts/montserrat/Montserrat-Regular.otf"), url("../fonts/montserrat/Montserrat-Regular.ttf"); }
+@font-face {
+  font-family: 'montserrat-bold';
+  src: url("../fonts/montserrat/Montserrat-Bold.otf"), url("../fonts/montserrat/Montserrat-Bold.ttf"); }
+@font-face {
+  font-family: 'lato-regular';
+  src: url("../fonts/lato/Lato-Regular.ttf"); }
+@font-face {
+  font-family: 'lato-bold';
+  src: url("../fonts/lato/Lato-Bold.ttf"); }
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  text-decoration: none;
+  font-family: "montserrat-regular"; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1;
+  background-color: #f6f6f6;
+  font-size: 14px;
+  color: #666666; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.clrfix {
+  clear: both;
+  height: 0;
+  line-height: 0;
+  margin: 0;
+  padding: 0; }
+
+/*index page categories*/
+.content-wrapper {
+  width: 1170px;
+  margin: 0 auto; }
+
+.categories-wrapper {
+  overflow: hidden;
+  margin-bottom: 30px; }
+  .categories-wrapper .categories-box {
+    float: left;
+    box-shadow: 0px 0px 1px #e2e2e2;
+    padding: 16px 18px;
+    background: #ffffff;
+    border: 1px solid #e2e2e2;
+    box-sizing: border-box;
+    width: 270px;
+    margin-right: 30px; }
+    .categories-wrapper .categories-box .main-title {
+      overflow: hidden;
+      line-height: 14px;
+      margin-bottom: 15px; }
+      .categories-wrapper .categories-box .main-title h2 {
+        font-family: 'montserrat-bold';
+        font-size: 16px;
+        color: #333;
+        float: left;
+        text-transform: uppercase; }
+      .categories-wrapper .categories-box .main-title a {
+        color: #4d82b8;
+        float: right; }
+        .categories-wrapper .categories-box .main-title a:hover {
+          text-decoration: underline; }
+    .categories-wrapper .categories-box ul {
+      border-top: 1px solid #f0f0f0;
+      padding-top: 10px; }
+      .categories-wrapper .categories-box ul li {
+        line-height: 36px; }
+        .categories-wrapper .categories-box ul li a {
+          font-family: 'lato-regular';
+          font-size: 14px;
+          color: #333333; }
+
+.promotion-wrapper {
+  overflow: hidden;
+  box-shadow: 0px 0px 1px #e2e2e2;
+  padding: 20px;
+  background: #ffffff;
+  border: 1px solid #e2e2e2;
+  box-sizing: border-box;
+  margin-bottom: 30px; }
+
+.category-left-col .pro-detail {
+  padding: 20px;
+  overflow: hidden; }
+  .category-left-col .pro-detail .slogan {
+    overflow: hidden;
+    float: left; }
+    .category-left-col .pro-detail .slogan h2 {
+      font-family: "montserrat-bold";
+      font-size: 22px;
+      color: #333333;
+      padding-bottom: 10px; }
+    .category-left-col .pro-detail .slogan div {
+      font-family: 'lato-bold';
+      font-size: 14px;
+      color: #666666; }
+  .category-left-col .pro-detail .pro-price {
+    float: right;
+    text-align: right; }
+    .category-left-col .pro-detail .pro-price div {
+      font-family: 'lato-bold';
+      font-size: 14px;
+      color: #666666;
+      padding-bottom: 10px; }
+    .category-left-col .pro-detail .pro-price h4 {
+      font-family: 'lato-bold';
+      font-size: 18px;
+      color: #4d82b8; }
+
+.category-right-col {
+  overflow: hidden; }
+  .category-right-col .indiv-product-box {
+    float: left;
+    border-left: 2px solid #f6f6f6;
+    border-bottom: 2px solid #f6f6f6; }
+    .category-right-col .indiv-product-box .product-img {
+      border-bottom: 2px solid #f6f6f6;
+      width: 290px;
+      height: 236px; }
+      .category-right-col .indiv-product-box .product-img img {
+        width: 100%;
+        height: 100%; }
+    .category-right-col .indiv-product-box .product-name {
+      padding: 20px; }
+      .category-right-col .indiv-product-box .product-name h4 {
+        font-family: "montserrat-bold";
+        font-size: 16px;
+        color: #333333;
+        padding-bottom: 10px; }
+      .category-right-col .indiv-product-box .product-name div {
+        font-family: "montserrat-regular";
+        font-size: 14px;
+        color: #666666; }
+
+/*# sourceMappingURL=cartimatic-main.css.map */

@@ -1,0 +1,29 @@
+{
+  "name": "cartimatic/admin",
+  "type": "package",
+  "description": "Logging for PHP 5.5.9",
+  "keywords": [
+    "log",
+    "logging"
+  ],
+  "homepage": "yasirpasha.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Muhammad Yasir",
+      "email": "yasir9398@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "Cartimatic\\Admin\\": "src"
+    },
+    "files": [
+      "src/Helpers.php"
+    ]
+  }
+}

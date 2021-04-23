@@ -1,0 +1,822 @@
+[09-Apr-2015 16:35:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 16:35:32 UTC] jpg
+[09-Apr-2015 16:37:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 16:37:56 UTC] jpg
+[09-Apr-2015 16:39:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 16:39:39 UTC] jpg
+[09-Apr-2015 16:40:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 16:41:10 UTC] jpg
+[09-Apr-2015 17:09:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 17:09:47 UTC] jpg
+[09-Apr-2015 17:10:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 17:11:21 UTC] jpg
+[09-Apr-2015 17:12:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 17:13:00 UTC] jpg
+[09-Apr-2015 17:15:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 17:16:22 UTC] jpg
+[09-Apr-2015 17:16:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 17:17:16 UTC] jpg
+[09-Apr-2015 18:33:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 18:33:49 UTC] jpg
+[09-Apr-2015 18:36:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 18:36:43 UTC] jpg
+[09-Apr-2015 18:38:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 18:39:18 UTC] jpg
+[09-Apr-2015 18:39:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 18:40:22 UTC] jpg
+[09-Apr-2015 18:43:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 18:43:56 UTC] jpg
+[09-Apr-2015 19:26:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 19:27:06 UTC] jpg
+[09-Apr-2015 19:27:06 UTC] PHP Fatal error:  Class 'Engine_Api' not found in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 86
+[09-Apr-2015 19:35:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Apr-2015 19:35:54 UTC] jpg
+[10-Apr-2015 07:39:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 07:40:01 UTC] jpg
+[10-Apr-2015 07:43:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 07:43:10 UTC] jpg
+[10-Apr-2015 07:57:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 07:57:45 UTC] jpg
+[10-Apr-2015 08:07:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 08:07:16 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 8
+[10-Apr-2015 08:08:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 08:08:49 UTC] jpg
+[10-Apr-2015 08:15:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 08:15:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 18
+[10-Apr-2015 08:15:42 UTC] jpg
+[10-Apr-2015 08:16:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 08:17:04 UTC] jpg
+[10-Apr-2015 09:45:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 09:45:40 UTC] jpg
+[10-Apr-2015 09:46:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 09:46:27 UTC] jpg
+[10-Apr-2015 09:49:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 09:49:09 UTC] jpg
+[10-Apr-2015 09:50:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 09:50:56 UTC] jpg
+[10-Apr-2015 09:55:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 09:55:19 UTC] jpg
+[10-Apr-2015 09:58:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 09:58:26 UTC] jpg
+[10-Apr-2015 10:01:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:01:35 UTC] jpg
+[10-Apr-2015 10:02:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:02:52 UTC] jpg
+[10-Apr-2015 10:04:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:04:54 UTC] jpg
+[10-Apr-2015 10:15:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:15:42 UTC] jpg
+[10-Apr-2015 10:18:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:18:21 UTC] jpg
+[10-Apr-2015 10:21:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:21:13 UTC] jpg
+[10-Apr-2015 10:22:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:22:35 UTC] jpg
+[10-Apr-2015 10:25:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:25:46 UTC] jpg
+[10-Apr-2015 10:26:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:26:27 UTC] jpg
+[10-Apr-2015 10:38:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:39:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:40:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:40:48 UTC] jpg
+[10-Apr-2015 10:43:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:43:46 UTC] jpg
+[10-Apr-2015 10:43:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:44:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:46:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:49:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:54:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:54:01 UTC] PHP Warning:  getimagesize(/public/croppic/coverphotos/croppedImg_1549234853.png): failed to open stream: No such file or directory in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[10-Apr-2015 10:59:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:59:09 UTC] PHP Warning:  getimagesize(/public/croppic/coverphotos/croppedImg_1549234853.png): failed to open stream: No such file or directory in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[10-Apr-2015 10:59:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 10:59:57 UTC] PHP Warning:  getimagesize(/public/croppic/coverphotos/croppedImg_1549234853.png): failed to open stream: No such file or directory in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[10-Apr-2015 11:07:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 11:07:04 UTC] PHP Warning:  getimagesize(/public/croppic/coverphotos/croppedImg_1549234853.png): failed to open stream: No such file or directory in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[10-Apr-2015 11:22:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 11:22:41 UTC] PHP Warning:  getimagesize(/public/croppic/coverphotos/croppedImg_1549234853.png): failed to open stream: No such file or directory in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[10-Apr-2015 11:23:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 11:23:34 UTC] jpg
+[10-Apr-2015 11:27:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 11:37:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 11:37:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 11:44:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 11:45:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 11:46:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 11:50:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 11:51:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 11:54:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 11:54:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 11:59:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 12:01:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 12:05:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 12:08:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 12:08:19 UTC] jpg
+[10-Apr-2015 12:09:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 12:16:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 12:18:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 12:19:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 12:21:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 12:35:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 12:47:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 13:24:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 13:31:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 13:35:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 13:35:48 UTC] jpg
+[10-Apr-2015 13:38:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 13:40:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 13:40:20 UTC] jpg
+[10-Apr-2015 13:42:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 13:42:06 UTC] jpg
+[10-Apr-2015 13:49:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 13:49:07 UTC] jpg
+[10-Apr-2015 13:49:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 13:49:57 UTC] jpg
+[10-Apr-2015 13:51:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 13:51:03 UTC] jpg
+[10-Apr-2015 13:52:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 13:55:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 13:55:02 UTC] jpg
+[10-Apr-2015 13:57:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 13:57:26 UTC] jpg
+[10-Apr-2015 13:59:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:00:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:00:03 UTC] jpg
+[10-Apr-2015 14:04:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:04:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:04:26 UTC] jpg
+[10-Apr-2015 14:09:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:09:33 UTC] jpg
+[10-Apr-2015 14:10:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:12:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:12:30 UTC] jpg
+[10-Apr-2015 14:12:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:12:58 UTC] jpg
+[10-Apr-2015 14:13:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:17:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:17:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:22:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:22:51 UTC] jpg
+[10-Apr-2015 14:23:19 UTC] PHP Warning:  imagecreatefrompng(): gd-png:  fatal libpng error: Read Error: truncated data in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 42
+[10-Apr-2015 14:24:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:25:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:27:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:27:41 UTC] PHP Warning:  imagecreatefrompng(): gd-png:  fatal libpng error: Read Error: truncated data in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 42
+[10-Apr-2015 14:28:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:29:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:30:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:30:26 UTC] jpg
+[10-Apr-2015 14:30:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:43:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:43:28 UTC] jpg
+[10-Apr-2015 14:46:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:46:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:46:25 UTC] jpg
+[10-Apr-2015 14:48:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:51:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Apr-2015 14:51:46 UTC] jpg
+[13-Apr-2015 07:48:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 07:51:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 07:51:56 UTC] jpg
+[13-Apr-2015 08:17:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 08:20:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 08:20:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 08:41:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 08:54:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 08:55:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 09:32:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 09:52:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 09:52:58 UTC] jpg
+[13-Apr-2015 10:00:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:00:31 UTC] jpg
+[13-Apr-2015 10:02:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:02:09 UTC] jpg
+[13-Apr-2015 10:07:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:07:12 UTC] jpg
+[13-Apr-2015 10:08:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:08:35 UTC] jpg
+[13-Apr-2015 10:10:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:17:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:17:05 UTC] jpg
+[13-Apr-2015 10:21:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:21:08 UTC] jpg
+[13-Apr-2015 10:21:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:21:55 UTC] jpg
+[13-Apr-2015 10:23:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:23:17 UTC] jpg
+[13-Apr-2015 10:28:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:28:09 UTC] jpg
+[13-Apr-2015 10:30:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:30:08 UTC] jpg
+[13-Apr-2015 10:30:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:30:26 UTC] jpg
+[13-Apr-2015 10:31:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:31:20 UTC] jpg
+[13-Apr-2015 10:31:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:31:33 UTC] jpg
+[13-Apr-2015 10:37:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 10:37:42 UTC] jpg
+[13-Apr-2015 11:08:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 11:08:47 UTC] jpg
+[13-Apr-2015 11:19:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 11:20:03 UTC] jpg
+[13-Apr-2015 11:20:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 11:20:47 UTC] jpg
+[13-Apr-2015 11:21:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Apr-2015 11:21:29 UTC] jpg
+[13-Apr-2015 11:22:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Apr-2015 11:13:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Apr-2015 11:13:30 UTC] jpg
+[29-Apr-2015 12:02:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Apr-2015 12:02:30 UTC] jpg
+[29-Apr-2015 12:12:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Apr-2015 12:12:24 UTC] jpg
+[20-May-2015 06:50:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-May-2015 06:51:04 UTC] jpg
+[20-May-2015 08:48:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-May-2015 08:50:10 UTC] jpg
+[20-May-2015 08:50:10 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_brand.php on line 70
+[20-May-2015 08:50:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-May-2015 08:50:51 UTC] jpg
+[20-May-2015 08:53:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-May-2015 08:53:37 UTC] jpg
+[20-May-2015 10:07:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-May-2015 10:08:00 UTC] jpg
+[20-May-2015 10:27:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-May-2015 10:28:23 UTC] jpg
+[17-Jun-2015 07:17:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jun-2015 07:17:45 UTC] jpg
+[17-Jun-2015 09:39:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jun-2015 09:39:44 UTC] jpg
+[19-Jun-2015 00:53:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Jun-2015 00:53:12 UTC] jpg
+[19-Jun-2015 01:04:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Jun-2015 01:04:55 UTC] jpg
+[19-Jun-2015 01:08:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Jun-2015 01:08:44 UTC] jpg
+[19-Jun-2015 01:13:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Jul-2015 05:02:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Jul-2015 05:02:32 UTC] jpg
+[08-Jul-2015 11:04:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Jul-2015 11:04:42 UTC] jpg
+[08-Jul-2015 11:05:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Jul-2015 11:06:02 UTC] jpg
+[08-Jul-2015 11:31:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Jul-2015 11:31:58 UTC] jpg
+[08-Jul-2015 11:50:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Jul-2015 11:51:00 UTC] jpg
+[08-Jul-2015 12:02:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Jul-2015 12:02:05 UTC] jpg
+[08-Jul-2015 12:08:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Jul-2015 12:08:49 UTC] jpg
+[08-Jul-2015 12:12:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Jul-2015 12:12:21 UTC] jpg
+[08-Jul-2015 12:14:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Jul-2015 12:15:27 UTC] jpg
+[08-Jul-2015 12:42:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Jul-2015 12:44:00 UTC] jpg
+[08-Jul-2015 12:48:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Jul-2015 12:50:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Jul-2015 12:50:50 UTC] jpg
+[08-Jul-2015 13:03:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[08-Jul-2015 13:03:41 UTC] jpg
+[09-Jul-2015 10:38:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2015 10:38:25 UTC] jpg
+[09-Jul-2015 11:01:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2015 11:01:27 UTC] jpg
+[09-Jul-2015 11:04:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2015 11:04:29 UTC] jpg
+[09-Jul-2015 11:06:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2015 11:06:30 UTC] jpg
+[09-Jul-2015 11:34:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2015 11:34:13 UTC] jpg
+[14-Jul-2015 13:12:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Jul-2015 13:12:19 UTC] jpg
+[15-Jul-2015 05:22:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 05:22:29 UTC] jpg
+[15-Jul-2015 05:44:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 05:44:42 UTC] jpg
+[15-Jul-2015 05:53:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 05:53:23 UTC] jpg
+[15-Jul-2015 09:40:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 09:40:37 UTC] jpg
+[15-Jul-2015 10:01:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 10:17:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 10:17:26 UTC] jpg
+[15-Jul-2015 10:26:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 10:26:20 UTC] jpg
+[15-Jul-2015 10:28:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 10:28:31 UTC] jpg
+[15-Jul-2015 10:41:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 10:41:24 UTC] jpg
+[15-Jul-2015 10:55:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 10:55:30 UTC] jpg
+[15-Jul-2015 11:58:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 11:58:43 UTC] jpg
+[15-Jul-2015 12:32:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 12:32:33 UTC] jpg
+[15-Jul-2015 12:56:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 12:56:43 UTC] jpg
+[15-Jul-2015 12:58:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 12:58:22 UTC] jpg
+[15-Jul-2015 13:00:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 13:00:32 UTC] jpg
+[15-Jul-2015 13:01:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 13:01:22 UTC] jpg
+[15-Jul-2015 13:04:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 13:04:16 UTC] jpg
+[15-Jul-2015 13:10:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 13:10:50 UTC] jpg
+[15-Jul-2015 13:12:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 13:12:13 UTC] jpg
+[15-Jul-2015 13:30:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 13:30:49 UTC] jpg
+[15-Jul-2015 13:41:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 13:41:35 UTC] jpg
+[15-Jul-2015 14:52:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 14:52:39 UTC] jpg
+[15-Jul-2015 15:14:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 15:14:20 UTC] jpg
+[15-Jul-2015 15:30:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 15:30:11 UTC] jpg
+[15-Jul-2015 15:53:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 15:53:30 UTC] jpg
+[15-Jul-2015 15:58:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 15:58:52 UTC] jpg
+[15-Jul-2015 16:15:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 16:15:18 UTC] jpg
+[15-Jul-2015 16:29:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 16:29:07 UTC] jpg
+[15-Jul-2015 17:04:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 17:04:44 UTC] jpg
+[15-Jul-2015 17:08:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 17:09:00 UTC] jpg
+[15-Jul-2015 18:55:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 18:55:36 UTC] jpg
+[15-Jul-2015 18:56:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 18:56:39 UTC] jpg
+[15-Jul-2015 18:57:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 18:58:07 UTC] jpg
+[15-Jul-2015 19:27:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 19:28:59 UTC] jpg
+[15-Jul-2015 19:38:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 19:38:14 UTC] jpg
+[15-Jul-2015 19:45:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 19:45:54 UTC] jpg
+[15-Jul-2015 19:55:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 19:55:59 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 48600 bytes) in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 48
+[15-Jul-2015 19:56:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 19:56:17 UTC] jpg
+[15-Jul-2015 20:04:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 20:04:49 UTC] jpg
+[15-Jul-2015 20:18:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 20:18:36 UTC] jpg
+[15-Jul-2015 20:19:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Jul-2015 20:19:40 UTC] jpg
+[16-Jul-2015 10:33:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jul-2015 10:34:20 UTC] jpg
+[16-Jul-2015 10:53:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jul-2015 10:53:59 UTC] jpg
+[16-Jul-2015 10:58:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jul-2015 10:58:56 UTC] jpg
+[16-Jul-2015 11:15:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jul-2015 11:15:31 UTC] jpg
+[16-Jul-2015 11:22:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jul-2015 11:22:56 UTC] jpg
+[16-Jul-2015 11:42:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jul-2015 11:42:29 UTC] jpg
+[16-Jul-2015 11:51:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jul-2015 11:51:07 UTC] jpg
+[16-Jul-2015 11:55:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jul-2015 11:56:04 UTC] jpg
+[16-Jul-2015 12:07:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jul-2015 12:07:04 UTC] jpg
+[16-Jul-2015 12:18:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jul-2015 12:18:48 UTC] jpg
+[16-Jul-2015 12:41:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jul-2015 12:41:51 UTC] jpg
+[16-Jul-2015 13:00:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Jul-2015 13:00:43 UTC] jpg
+[17-Jul-2015 10:10:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 10:10:55 UTC] jpg
+[17-Jul-2015 10:16:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 10:16:29 UTC] jpg
+[17-Jul-2015 10:19:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 10:19:07 UTC] jpg
+[17-Jul-2015 10:23:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 10:23:27 UTC] jpg
+[17-Jul-2015 10:28:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 10:28:54 UTC] jpg
+[17-Jul-2015 10:32:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 10:32:50 UTC] jpg
+[17-Jul-2015 10:35:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 10:35:57 UTC] jpg
+[17-Jul-2015 10:39:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 10:39:17 UTC] jpg
+[17-Jul-2015 10:42:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 10:42:21 UTC] jpg
+[17-Jul-2015 10:45:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 10:45:23 UTC] jpg
+[17-Jul-2015 10:49:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 10:49:03 UTC] jpg
+[17-Jul-2015 10:51:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 10:51:21 UTC] jpg
+[17-Jul-2015 11:00:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 11:01:09 UTC] jpg
+[17-Jul-2015 11:02:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 11:02:43 UTC] jpg
+[17-Jul-2015 11:05:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 11:05:47 UTC] jpg
+[17-Jul-2015 11:08:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 11:08:31 UTC] jpg
+[17-Jul-2015 11:09:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 11:09:19 UTC] jpg
+[17-Jul-2015 11:12:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 11:12:21 UTC] jpg
+[17-Jul-2015 11:12:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 11:13:56 UTC] jpg
+[17-Jul-2015 11:17:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 11:17:23 UTC] jpg
+[17-Jul-2015 11:17:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 11:18:00 UTC] jpg
+[17-Jul-2015 11:19:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 11:19:37 UTC] jpg
+[17-Jul-2015 14:11:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 14:11:40 UTC] jpg
+[17-Jul-2015 20:03:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 20:04:00 UTC] jpg
+[17-Jul-2015 20:48:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 20:48:25 UTC] jpg
+[17-Jul-2015 21:02:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 21:03:07 UTC] jpg
+[17-Jul-2015 21:03:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 21:03:51 UTC] jpg
+[17-Jul-2015 21:08:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Jul-2015 21:08:24 UTC] jpg
+[18-Jul-2015 08:38:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Jul-2015 08:38:56 UTC] jpg
+[19-Jul-2015 09:09:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Jul-2015 09:09:17 UTC] jpg
+[19-Jul-2015 09:14:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Jul-2015 09:15:00 UTC] jpg
+[19-Jul-2015 09:30:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Jul-2015 09:30:26 UTC] jpg
+[19-Jul-2015 09:38:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Jul-2015 09:38:44 UTC] jpg
+[22-Jul-2015 07:11:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Jul-2015 07:11:32 UTC] jpg
+[29-Jul-2015 12:49:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2015 12:49:27 UTC] jpg
+[29-Jul-2015 18:13:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Jul-2015 18:13:56 UTC] jpg
+[30-Jul-2015 08:32:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Jul-2015 08:32:50 UTC] jpg
+[30-Jul-2015 10:49:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Jul-2015 10:49:25 UTC] jpg
+[30-Jul-2015 10:52:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Jul-2015 10:52:35 UTC] jpg
+[30-Jul-2015 10:57:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Jul-2015 10:57:59 UTC] jpg
+[30-Jul-2015 11:36:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Jul-2015 11:37:30 UTC] jpg
+[30-Jul-2015 13:58:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[30-Jul-2015 13:58:30 UTC] jpg
+[20-Aug-2015 11:11:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 11:11:18 UTC] jpg
+[20-Aug-2015 11:12:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 11:12:02 UTC] jpg
+[20-Aug-2015 11:19:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 11:19:28 UTC] jpg
+[20-Aug-2015 11:34:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 11:34:58 UTC] jpg
+[20-Aug-2015 11:38:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 11:38:30 UTC] jpg
+[20-Aug-2015 12:05:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 12:05:46 UTC] jpg
+[20-Aug-2015 12:11:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 12:12:35 UTC] jpg
+[20-Aug-2015 12:12:35 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_brand.php on line 70
+[20-Aug-2015 12:13:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 12:15:23 UTC] jpg
+[20-Aug-2015 12:22:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 12:34:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 12:34:47 UTC] jpg
+[20-Aug-2015 12:57:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 12:57:59 UTC] jpg
+[20-Aug-2015 13:04:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 13:04:13 UTC] jpg
+[20-Aug-2015 13:15:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 13:15:30 UTC] jpg
+[20-Aug-2015 13:18:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 13:18:37 UTC] jpg
+[20-Aug-2015 13:23:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 13:23:37 UTC] jpg
+[20-Aug-2015 13:33:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 13:33:45 UTC] jpg
+[20-Aug-2015 13:45:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 13:45:43 UTC] jpg
+[20-Aug-2015 13:55:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 13:56:00 UTC] jpg
+[20-Aug-2015 14:04:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Aug-2015 14:04:47 UTC] jpg
+[21-Aug-2015 09:56:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 09:56:24 UTC] jpg
+[21-Aug-2015 10:01:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 10:01:58 UTC] jpg
+[21-Aug-2015 10:03:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 10:03:58 UTC] jpg
+[21-Aug-2015 10:09:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 10:09:10 UTC] jpg
+[21-Aug-2015 10:10:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 10:10:25 UTC] jpg
+[21-Aug-2015 10:31:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 10:31:14 UTC] jpg
+[21-Aug-2015 10:31:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 10:31:52 UTC] jpg
+[21-Aug-2015 10:48:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 10:48:23 UTC] jpg
+[21-Aug-2015 10:51:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 10:51:27 UTC] jpg
+[21-Aug-2015 10:59:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 10:59:32 UTC] jpg
+[21-Aug-2015 11:09:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:09:56 UTC] jpg
+[21-Aug-2015 11:17:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:17:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:17:44 UTC] jpg
+[21-Aug-2015 11:17:46 UTC] jpg
+[21-Aug-2015 11:18:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:18:40 UTC] jpg
+[21-Aug-2015 11:24:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:24:04 UTC] jpg
+[21-Aug-2015 11:27:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:27:35 UTC] jpg
+[21-Aug-2015 11:30:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:30:56 UTC] jpg
+[21-Aug-2015 11:37:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:37:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:37:23 UTC] jpg
+[21-Aug-2015 11:40:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:40:12 UTC] jpg
+[21-Aug-2015 11:42:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:42:03 UTC] jpg
+[21-Aug-2015 11:43:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:43:55 UTC] jpg
+[21-Aug-2015 11:45:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:45:16 UTC] jpg
+[21-Aug-2015 11:46:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:46:14 UTC] jpg
+[21-Aug-2015 11:48:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:48:17 UTC] jpg
+[21-Aug-2015 11:51:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 11:51:27 UTC] jpg
+[21-Aug-2015 12:04:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 12:04:08 UTC] jpg
+[21-Aug-2015 12:13:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 12:13:57 UTC] jpg
+[21-Aug-2015 12:37:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 12:37:57 UTC] jpg
+[21-Aug-2015 12:38:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 13:06:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 13:06:35 UTC] jpg
+[21-Aug-2015 13:42:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Aug-2015 13:42:14 UTC] jpg
+[22-Aug-2015 11:10:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Aug-2015 11:10:55 UTC] jpg
+[24-Aug-2015 09:26:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 09:26:58 UTC] jpg
+[24-Aug-2015 09:43:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 09:43:47 UTC] jpg
+[24-Aug-2015 10:00:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 10:34:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 10:34:12 UTC] jpg
+[24-Aug-2015 10:35:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 10:35:17 UTC] jpg
+[24-Aug-2015 10:35:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 10:35:48 UTC] jpg
+[24-Aug-2015 10:49:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 10:51:51 UTC] jpg
+[24-Aug-2015 10:51:51 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_brand.php on line 70
+[24-Aug-2015 11:00:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 11:01:00 UTC] jpg
+[24-Aug-2015 11:11:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 11:11:38 UTC] jpg
+[24-Aug-2015 11:23:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 11:23:19 UTC] jpg
+[24-Aug-2015 11:27:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 11:27:39 UTC] jpg
+[24-Aug-2015 11:41:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 11:41:08 UTC] jpg
+[24-Aug-2015 11:42:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 11:42:30 UTC] jpg
+[24-Aug-2015 11:58:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 11:58:12 UTC] jpg
+[24-Aug-2015 12:10:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 12:10:39 UTC] jpg
+[24-Aug-2015 12:23:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 12:23:32 UTC] jpg
+[24-Aug-2015 12:41:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 12:41:58 UTC] jpg
+[24-Aug-2015 12:42:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 12:42:48 UTC] jpg
+[24-Aug-2015 12:43:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 12:43:32 UTC] jpg
+[24-Aug-2015 13:10:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 13:11:25 UTC] jpg
+[24-Aug-2015 13:23:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 13:23:20 UTC] jpg
+[24-Aug-2015 13:39:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Aug-2015 13:39:01 UTC] jpg
+[25-Aug-2015 07:04:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Aug-2015 07:04:41 UTC] jpg
+[25-Aug-2015 07:06:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Aug-2015 07:06:01 UTC] jpg
+[25-Aug-2015 07:23:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Aug-2015 07:26:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ffmpeg.so' - libswscale.so.0: cannot open shared object file: No such file or directory in Unknown on line 0
+[25-Aug-2015 07:26:47 UTC] jpg
+[27-Aug-2015 08:31:33 UTC] jpg
+[27-Aug-2015 08:31:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2860 bytes) in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_group.php on line 71
+[27-Aug-2015 13:14:43 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_group.php on line 37
+[27-Aug-2015 13:17:09 UTC] jpg
+[27-Aug-2015 13:22:12 UTC] jpg
+[27-Aug-2015 14:53:08 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_group.php on line 37
+[27-Aug-2015 14:59:24 UTC] jpg
+[27-Aug-2015 15:00:00 UTC] jpg
+[27-Aug-2015 15:02:02 UTC] jpg
+[28-Aug-2015 05:52:50 UTC] jpg
+[28-Aug-2015 06:59:58 UTC] jpg
+[28-Aug-2015 07:08:12 UTC] jpg
+[28-Aug-2015 07:10:10 UTC] jpg
+[28-Aug-2015 07:12:05 UTC] jpg
+[28-Aug-2015 07:16:56 UTC] jpg
+[28-Aug-2015 07:17:07 UTC] jpg
+[28-Aug-2015 07:26:56 UTC] jpg
+[28-Aug-2015 07:28:56 UTC] jpg
+[28-Aug-2015 07:30:13 UTC] jpg
+[28-Aug-2015 07:35:33 UTC] jpg
+[28-Aug-2015 07:37:06 UTC] jpg
+[28-Aug-2015 07:38:46 UTC] jpg
+[28-Aug-2015 07:39:46 UTC] jpg
+[28-Aug-2015 07:43:30 UTC] jpg
+[28-Aug-2015 07:44:15 UTC] jpg
+[28-Aug-2015 07:50:13 UTC] jpg
+[28-Aug-2015 07:51:36 UTC] jpg
+[28-Aug-2015 07:52:49 UTC] jpg
+[28-Aug-2015 08:09:51 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_group.php on line 37
+[28-Aug-2015 08:11:10 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_group.php on line 37
+[28-Aug-2015 09:46:50 UTC] jpg
+[28-Aug-2015 09:48:55 UTC] jpg
+[28-Aug-2015 09:55:38 UTC] jpg
+[28-Aug-2015 10:01:33 UTC] jpg
+[28-Aug-2015 10:05:35 UTC] jpg
+[28-Aug-2015 10:05:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4800 bytes) in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_brand.php on line 88
+[28-Aug-2015 10:07:14 UTC] jpg
+[28-Aug-2015 10:08:15 UTC] jpg
+[28-Aug-2015 10:09:10 UTC] jpg
+[28-Aug-2015 10:33:58 UTC] jpg
+[28-Aug-2015 10:33:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4800 bytes) in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 82
+[28-Aug-2015 11:13:08 UTC] jpg
+[28-Aug-2015 11:13:26 UTC] jpg
+[28-Aug-2015 11:13:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4800 bytes) in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 87
+[28-Aug-2015 13:29:57 UTC] jpg
+[28-Aug-2015 13:53:42 UTC] jpg
+[29-Aug-2015 07:23:41 UTC] jpg
+[31-Aug-2015 11:54:43 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_group.php on line 37
+[31-Aug-2015 12:01:31 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_group.php on line 37
+[31-Aug-2015 12:23:06 UTC] jpg
+[01-Sep-2015 04:04:45 UTC] jpg
+[01-Sep-2015 04:47:45 UTC] jpg
+[01-Sep-2015 10:14:33 UTC] jpg
+[01-Sep-2015 10:16:59 UTC] jpg
+[02-Sep-2015 10:01:16 UTC] jpg
+[02-Sep-2015 10:41:47 UTC] jpg
+[02-Sep-2015 16:51:07 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[02-Sep-2015 16:52:28 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[02-Sep-2015 16:59:10 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[02-Sep-2015 17:01:41 UTC] jpg
+[02-Sep-2015 17:03:15 UTC] jpg
+[02-Sep-2015 17:03:20 UTC] jpg
+[02-Sep-2015 17:04:08 UTC] jpg
+[02-Sep-2015 19:57:05 UTC] jpg
+[02-Sep-2015 20:21:15 UTC] jpg
+[02-Sep-2015 20:23:29 UTC] jpg
+[02-Sep-2015 20:29:54 UTC] jpg
+[03-Sep-2015 07:50:45 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[03-Sep-2015 07:52:47 UTC] jpg
+[03-Sep-2015 07:52:56 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[03-Sep-2015 07:55:18 UTC] jpg
+[03-Sep-2015 08:00:37 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[03-Sep-2015 08:01:35 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[03-Sep-2015 08:03:14 UTC] jpg
+[03-Sep-2015 08:10:47 UTC] jpg
+[03-Sep-2015 08:14:45 UTC] jpg
+[03-Sep-2015 08:17:15 UTC] jpg
+[03-Sep-2015 08:17:52 UTC] jpg
+[03-Sep-2015 08:18:14 UTC] jpg
+[03-Sep-2015 08:20:45 UTC] jpg
+[03-Sep-2015 12:10:18 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[04-Sep-2015 09:20:08 UTC] jpg
+[04-Sep-2015 09:56:54 UTC] jpg
+[04-Sep-2015 10:41:41 UTC] jpg
+[04-Sep-2015 12:09:03 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_brand.php on line 36
+[04-Sep-2015 12:11:58 UTC] jpg
+[04-Sep-2015 12:40:45 UTC] jpg
+[04-Sep-2015 14:34:05 UTC] jpg
+[04-Sep-2015 20:12:52 UTC] jpg
+[04-Sep-2015 20:20:24 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_brand.php on line 36
+[04-Sep-2015 20:22:04 UTC] jpg
+[04-Sep-2015 20:22:06 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_brand.php on line 36
+[04-Sep-2015 20:23:26 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_brand.php on line 36
+[04-Sep-2015 20:24:48 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_brand.php on line 36
+[04-Sep-2015 20:27:24 UTC] jpg
+[04-Sep-2015 20:33:21 UTC] jpg
+[04-Sep-2015 20:36:05 UTC] jpg
+[04-Sep-2015 20:41:08 UTC] jpg
+[04-Sep-2015 20:41:49 UTC] jpg
+[04-Sep-2015 20:45:52 UTC] jpg
+[04-Sep-2015 20:54:28 UTC] jpg
+[04-Sep-2015 20:56:16 UTC] jpg
+[04-Sep-2015 20:58:36 UTC] jpg
+[07-Sep-2015 12:33:43 UTC] PHP Warning:  getimagesize(): data:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[07-Sep-2015 12:33:43 UTC] PHP Warning:  getimagesize(data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAPAAA/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoKDBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgCWASwAwERAAIRAQMRAf/EAKQAAAIDAQEBAQAAAAAAAAAAAAECAAMEBQYHCAEBAQEBAQEBAQAAAAAAAAAAAAECAwQFBgcQAAIBAwMCBAQEBAUDAwMCBwECEQAhAzESBEEFUWEiE3GBMgaRoRQHscFCI/DR4VIV8WIzciQIgkMWkqJTJbLCNNJUEQEBAQEAAgIBBAEFAAICAwEAARECEgMhMQRBURMFImFxMiMGgTORFEJSYjT/2gAMAwEAAhEDEQA/ANIFeB3MBUQwWgIFFMFqVYYCgYLQELRThagYLQMFoGC0DBainVaKYLQWBKBwlQOFqBgtAwSinCVA4WgcJQMFopwtAQtFOEqBwlA4S9QOMdFMEqBwtqsUwWgIXwoGCUDBDUU4Q0DBKBwtBIoDFFMEqBwgoohaBglNUdoqhgPKgO00BCigYL8qA7KBoqibaIG2jNAiqzgbfxqpYEURIoibaFDaa1BI6a1ULAoJt1NVKVl6UYqFbVUDb+WlACvjc9KQDb5VYhGBmennWmKmy/hTTC7BB8KJhYGlVkhF/OqyXbGl/KhYBUza1NQhH5VqM0hAqpSReenSqAR/0qufRSv+lGcDbN6GFKmJGvhQwpBOtVKUiNK1Au2qhSseFqBCoFELt/DwqskZJM/jVjNCLWqgbQTNNTB2CfP/ADqgbD/rVRNnTrUQCk+cVYUoQmiIUv8AlVUrL0i1EJB/1ohSlqqFK/Og in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[07-Sep-2015 12:41:55 UTC] PHP Warning:  getimagesize(): data:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[07-Sep-2015 12:41:55 UTC] PHP Warning:  getimagesize(data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAPAAA/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoKDBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgCWASwAwERAAIRAQMRAf/EAKQAAAIDAQEBAQAAAAAAAAAAAAECAAMEBQYHCAEBAQEBAQEBAQAAAAAAAAAAAAECAwQFBgcQAAIBAwMCBAQEBAUDAwMCBwECEQAhAzESBEEFUWEiE3GBMgaRoRQHscFCI/DR4VIV8WIzciQIgkMWkqJTJbLCNNJUEQEBAQEAAgIBBAEFAAICAwEAARECEgMhMQRBURMFImFxMiMGgTORFEJSYjT/2gAMAwEAAhEDEQA/ANIFeB3MBUQwWgIFFMFqVYYCgYLQELRThagYLQMFoGC0DBainVaKYLQWBKBwlQOFqBgtAwSinCVA4WgcJQMFopwtAQtFOEqBwlA4S9QOMdFMEqBwtqsUwWgIXwoGCUDBDUU4Q0DBKBwtBIoDFFMEqBwgoohaBglNUdoqhgPKgO00BCigYL8qA7KBoqibaIG2jNAiqzgbfxqpYEURIoibaFDaa1BI6a1ULAoJt1NVKVl6UYqFbVUDb+WlACvjc9KQDb5VYhGBmennWmKmy/hTTC7BB8KJhYGlVkhF/OqyXbGl/KhYBUza1NQhH5VqM0hAqpSReenSqAR/0qufRSv+lGcDbN6GFKmJGvhQwpBOtVKUiNK1Au2qhSseFqBCoFELt/DwqskZJM/jVjNCLWqgbQTNNTB2CfP/ADqgbD/rVRNnTrUQCk+cVYUoQmiIUv8AlVUrL0i1EJB/1ohSlqqFK/Og in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[07-Sep-2015 12:46:31 UTC] PHP Warning:  getimagesize(): data:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[07-Sep-2015 12:46:31 UTC] PHP Warning:  getimagesize(data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAPAAA/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoKDBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgCWASwAwERAAIRAQMRAf/EAKQAAAIDAQEBAQAAAAAAAAAAAAECAAMEBQYHCAEBAQEBAQEBAQAAAAAAAAAAAAECAwQFBgcQAAIBAwMCBAQEBAUDAwMCBwECEQAhAzESBEEFUWEiE3GBMgaRoRQHscFCI/DR4VIV8WIzciQIgkMWkqJTJbLCNNJUEQEBAQEAAgIBBAEFAAICAwEAARECEgMhMQRBURMFImFxMiMGgTORFEJSYjT/2gAMAwEAAhEDEQA/ANIFeB3MBUQwWgIFFMFqVYYCgYLQELRThagYLQMFoGC0DBainVaKYLQWBKBwlQOFqBgtAwSinCVA4WgcJQMFopwtAQtFOEqBwlA4S9QOMdFMEqBwtqsUwWgIXwoGCUDBDUU4Q0DBKBwtBIoDFFMEqBwgoohaBglNUdoqhgPKgO00BCigYL8qA7KBoqibaIG2jNAiqzgbfxqpYEURIoibaFDaa1BI6a1ULAoJt1NVKVl6UYqFbVUDb+WlACvjc9KQDb5VYhGBmennWmKmy/hTTC7BB8KJhYGlVkhF/OqyXbGl/KhYBUza1NQhH5VqM0hAqpSReenSqAR/0qufRSv+lGcDbN6GFKmJGvhQwpBOtVKUiNK1Au2qhSseFqBCoFELt/DwqskZJM/jVjNCLWqgbQTNNTB2CfP/ADqgbD/rVRNnTrUQCk+cVYUoQmiIUv8AlVUrL0i1EJB/1ohSlqqFK/Og in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[07-Sep-2015 13:43:06 UTC] jpg
+[07-Sep-2015 13:43:43 UTC] jpg
+[07-Sep-2015 13:47:07 UTC] jpg
+[07-Sep-2015 14:47:35 UTC] jpg
+[07-Sep-2015 14:58:56 UTC] jpg
+[07-Sep-2015 15:05:59 UTC] jpg
+[07-Sep-2015 20:22:03 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[07-Sep-2015 20:22:33 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[07-Sep-2015 22:12:52 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[07-Sep-2015 22:21:29 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[07-Sep-2015 22:39:25 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[07-Sep-2015 22:51:15 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[08-Sep-2015 00:27:37 UTC] jpg
+[08-Sep-2015 01:51:44 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[08-Sep-2015 06:50:13 UTC] jpg
+[08-Sep-2015 07:19:01 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[08-Sep-2015 07:20:50 UTC] jpg
+[08-Sep-2015 08:53:12 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[08-Sep-2015 09:30:38 UTC] jpg
+[08-Sep-2015 09:50:48 UTC] jpg
+[08-Sep-2015 10:29:17 UTC] jpg
+[08-Sep-2015 10:32:32 UTC] jpg
+[08-Sep-2015 10:42:46 UTC] jpg
+[08-Sep-2015 11:15:07 UTC] jpg
+[08-Sep-2015 11:17:47 UTC] jpg
+[08-Sep-2015 11:18:26 UTC] jpg
+[10-Sep-2015 19:26:02 UTC] jpg
+[12-Sep-2015 18:10:50 UTC] jpg
+[12-Sep-2015 18:51:09 UTC] jpg
+[16-Sep-2015 14:29:30 UTC] jpg
+[16-Sep-2015 14:30:56 UTC] jpg
+[21-Sep-2015 11:20:16 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_group.php on line 37
+[29-Sep-2015 05:54:40 UTC] jpg
+[29-Sep-2015 13:36:35 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[29-Sep-2015 13:37:55 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[29-Sep-2015 18:53:18 UTC] jpg
+[29-Sep-2015 19:01:54 UTC] jpg
+[29-Sep-2015 19:23:37 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[29-Sep-2015 19:25:22 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[29-Sep-2015 19:36:59 UTC] jpg
+[30-Sep-2015 03:41:43 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file.php on line 37
+[02-Oct-2015 10:59:17 UTC] jpg
+[04-Oct-2015 08:27:33 UTC] jpg
+[04-Oct-2015 19:46:40 UTC] jpg
+[05-Oct-2015 02:45:44 UTC] jpg
+[05-Oct-2015 07:57:10 UTC] jpg
+[06-Oct-2015 06:44:59 UTC] jpg
+[06-Oct-2015 08:31:34 UTC] jpg
+[06-Oct-2015 13:51:55 UTC] jpg
+[07-Oct-2015 08:59:50 UTC] jpg
+[13-Oct-2015 05:42:24 UTC] jpg
+[13-Oct-2015 05:46:18 UTC] jpg
+[14-Oct-2015 08:52:47 UTC] jpg
+[14-Oct-2015 09:28:09 UTC] jpg
+[14-Oct-2015 11:08:55 UTC] jpg
+[14-Oct-2015 12:08:35 UTC] jpg
+[15-Oct-2015 04:12:52 UTC] jpg
+[21-Oct-2015 21:03:15 UTC] jpg
+[21-Oct-2015 21:58:40 UTC] jpg
+[23-Oct-2015 19:17:12 UTC] jpg
+[26-Oct-2015 12:02:14 UTC] jpg
+[27-Oct-2015 07:04:39 UTC] jpg
+[27-Oct-2015 07:13:02 UTC] jpg
+[02-Nov-2015 07:17:10 UTC] jpg
+[02-Nov-2015 07:17:40 UTC] jpg
+[04-Nov-2015 23:14:08 UTC] jpg
+[07-Nov-2015 09:13:41 UTC] jpg
+[07-Nov-2015 09:14:39 UTC] jpg
+[10-Nov-2015 06:41:55 UTC] jpg
+[13-Nov-2015 06:47:54 UTC] jpg
+[21-Nov-2015 01:04:08 UTC] jpg
+[24-Nov-2015 17:43:18 UTC] jpg
+[17-Dec-2015 10:49:11 UTC] jpg
+[28-Dec-2015 11:12:56 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wwwkinnect2/public_html/public/croppic/img_crop_to_file_brand.php on line 36
+[01-Jan-2016 06:48:11 UTC] jpg
+[03-Jan-2016 04:14:45 UTC] jpg

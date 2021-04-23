@@ -1,0 +1,41 @@
+
+
+.input-item {
+  display: block;
+  width: 100%;
+  height: 40px; // Make inputs at least the height of their button counterpart (base line-height + padding + border)
+  padding: 0 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 20px;
+  color: $text-color;
+  background-color: $input-bg;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
+  border: 1px solid $text-color;
+  border-radius: 0; // Note: This has no effect on <select>s in some browsers, due to the limited stylability of <select>s in CSS.
+
+
+  // Unstyle the caret on `<select>`s in IE10+.
+  &::-ms-expand {
+    border: 0;
+    background-color: transparent;
+  }
+
+}
+
+
+
+.search-box {
+  padding: 10px;
+  background-color: #ffffff;
+
+  .input-item {
+    margin-bottom: 0;
+  }
+}

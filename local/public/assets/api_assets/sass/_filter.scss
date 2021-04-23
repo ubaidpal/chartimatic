@@ -1,0 +1,170 @@
+.filter-container{
+	margin:5px; background:$white;
+	
+	.filter-wrapper{ border-bottom:1px solid $border-color; padding:10px;
+		h2{ font-size:20px; font-weight:bold; text-transform:uppercase; margin:0px 0px 10px;}
+		.filter-box{ overflow:hidden; padding:5px 0px;
+			.range{ float:left; font-size:18px;}
+			.filter{float:right;}
+		}
+	}
+}
+
+
+.onoffswitch {
+    position: relative; width: 56px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.onoffswitch-checkbox {
+    display: none;
+}
+.onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border-radius: 15px;
+}
+.onoffswitch-inner {
+    display: block; width: 200%; margin-left: -100%;
+    transition: margin 0.3s ease-in 0s;
+}
+.onoffswitch-inner:before, .onoffswitch-inner:after {
+    display: block; float: left; width: 50%; height: 26px; padding: 0; line-height: 24px;
+    font-size: 13px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+    box-sizing: border-box;
+}
+.onoffswitch-inner:before {
+    content: "";
+    padding-left: 9px;
+    background-color: #34A7C1; color: #FFFFFF;
+}
+.onoffswitch-inner:after {
+    content: "";
+    padding-right: 9px;
+    background-color: #cccccc; color: #999999;
+    text-align: right;
+}
+.onoffswitch-switch {
+    display: block; width: 22px; margin: 2px;
+    background: #FFFFFF;
+    position: absolute; top: 0; bottom: 0;
+    right: 30px;
+    border-radius: 50%;
+    transition: all 0.2s ease-in 0s;
+	height:22px;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+    margin-left: 0;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+    right: 0px; 
+}
+
+
+/*Categories*/
+.top-heading-wrapper{ display:table; width:100%; border-bottom:4px solid #00aeef; font-size:14px;
+	div{ display:table-cell; 
+		&.back{ width:20%; text-align:center;
+			a{ color:#333333; font-size:16px; font-weight:bold;}
+		}
+		&.title{ width:60%; text-align:center; 
+			h1{ font-size:20px; color:#333333;}
+		}
+		&.misc{width:20%;}		
+	}
+}
+
+.categories-container {
+    margin: 5px;
+    background: #ffffff;
+	
+	ul{ list-style-type:none; padding:0;
+		li{ padding:10px; border-bottom:1px solid #ccc; list-style-type:none; font-size:16px;}
+	}
+}
+
+
+.cart-popup{ 
+	h1{ margin:10px 30px !important;}
+	h4{ font-size:16px; margin:10px 30px!important;}
+	a{ 	display: block;
+		padding: 20px;
+		border-top: 1px solid #ccc;
+		text-transform: uppercase;
+		text-align: center;
+	}
+}
+
+
+/*shipt-to*/
+.shipt-to{ overflow:hidden; margin:5px;
+	h1{ background:#eeeeee; color:#656565; font-size:18px; margin:0; padding:10px;}
+	.add-new{ background:#ffffff; padding:20px 10px; font-size:16px; display:block;}
+	p{ font-size:16px;}
+}
+
+.shipping-info{ background:#ffffff; margin:0; padding:10px; font-size:16px;
+	p{ margin-top:0;}
+	a.change{}
+}
+
+
+.shipping-address-box{ background:#ffffff; padding:10px; display:table; width:100%; font-size:16px; border-bottom:1px solid #ccc;
+	p{ display:table-cell; text-align:left}
+	div{ display:table-cell; text-align:center; width:5%;}
+}
+
+
+
+
+.form-wrapper{ background:#ffffff; padding:5px;
+	
+	.form-item{ overflow:hidden; padding-bottom:10px;
+		label{ font-size:16px; margin:0; padding:0 0 5px; display:block;}
+		input{ width:100%; border-radius:0; border:1px solid #ccc; box-sizing:border-box; padding:5px 10px; line-height:30px; font-size:16px;}
+		select{
+			width: 100%;
+			border-radius: 0;
+			border: 1px solid #ccc;
+			box-sizing: border-box;
+			padding: 10px;
+			line-height: 30px;
+			font-size: 16px;
+			background:#ffffff;
+		}
+		.dy{ float:left; width:45%;}
+	}
+}
+.green-btn{ padding:12px 10px 10px; text-align:center; text-transform:uppercase; color:#ffffff; background:#00ef49; display:block; font-size:16px;}
+.mr20{ margin-right:20px;}
+
+.login-bg{ background:url(images/bg.jpg) center center no-repeat; width:100%; height:100%; position:fixed; left:0; top:0; background-size: cover; text-align:center;
+	.logo{ background:url(images/Logo.png) center center no-repeat; width:auto; height:80px; background-size:contain; margin:0px 10px;}
+	.login-info-wrapper{     
+		font-size: 16px;
+		position: absolute;
+		left: 0;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		width: auto;
+		height: 80px;
+		margin: auto 10px;
+		text-align:left;		
+		
+		input{width: 100%;box-sizing: border-box;padding: 5px 10px;line-height: 40px; margin-bottom: 10px;}
+		button{ width: 100%; box-sizing: border-box; line-height: 40px;}
+	}
+	.forgot{ position:fixed; bottom:0; left:0; text-align:center; width:100%; padding-bottom:20px;
+		a{ color:#333333; font-size:16px;}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+<?php
+
+return [
+
+    'STORE_URL' => 'STORE_URL',
+    'STORE_THEME_PATH' => 'STORE_THEME_PATH',
+    'STORE_SELECTED_THEME' => 'STORE_SELECTED_THEME',
+    'STORE_DEFAULT_THEME' => 'default',
+    'SELECTED_THEME_ID' => null,
+    'DEFAULT_THEME_ID' => 1,
+];

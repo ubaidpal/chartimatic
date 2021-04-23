@@ -1,0 +1,40 @@
+<?php
+Route::get('page/index', 'pagesController@index');
+Route::get('page/category', 'pagesController@category');
+Route::get('page/signin', 'pagesController@signin');
+Route::get('page/signup', 'pagesController@signup');
+Route::get('page/category_products', 'pagesController@category_products');
+Route::get('page/brand_index', 'pagesController@brand_index');
+Route::get('page/product_detail', 'pagesController@product_detail');
+Route::get('page/cartimatic_cart', 'pagesController@cartimatic_cart');
+Route::get('page/cartimatic_checkout', 'pagesController@cartimatic_checkout');
+Route::get('page/cartimatic_payment', 'pagesController@cartimatic_payment');
+Route::get('page/admin_index', 'pagesController@admin_index');
+Route::get('page/manage_orders', 'pagesController@manage_orders');
+Route::get('page/wishlist', 'pagesController@wishlist');
+Route::get('page/order_detail', 'pagesController@order_detail');
+Route::get('page/open_dispute', 'pagesController@open_dispute');
+Route::get('page/dispute_detail', 'pagesController@dispute_detail');
+Route::get('page/submit_dispute', 'pagesController@submit_dispute');
+Route::get('page/messages', 'pagesController@messages');
+Route::get('page/messages_detail', 'pagesController@messages_detail');
+Route::get('page/manage_feedback', 'pagesController@manage_feedback');
+Route::get('page/shipping_address', 'pagesController@shipping_address');
+Route::get('page/my_profile', 'pagesController@my_profile');
+Route::get('page/my_profile_edit', 'pagesController@my_profile_edit');
+Route::get('page/posLogin', 'pagesController@posLogin');
+Route::get('page/dashboard', 'pagesController@dashboard');
+Route::get('page/pos', 'pagesController@pos');
+Route::get('page/online_store', 'pagesController@online_store');
+Route::get('page/new', 'pagesController@new_name');
+Route::get('page/help_centre', 'pagesController@help_centre');
+Route::get('page/help_centre_pos', 'pagesController@help_centre_pos');
+Route::get('page/pricing', 'pagesController@pricing');
+Route::get('page/saleChannels', 'pagesController@saleChannels');
+Route::get('page/bankTransfer', 'pagesController@bankTransfer');
+Route::get('page/subscribtionPlan', 'pagesController@subscribtionPlan');
+Route::get('page/pickSubscribtionPlan', 'pagesController@pickSubscribtionPlan');
+Route::get('page/generalStoreDetail', 'pagesController@generalStoreDetail');
+Route::get('page/marketplace', 'pagesController@marketplace');
+
+?>

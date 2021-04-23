@@ -1,0 +1,108 @@
+.cart-detail{ margin:5px;}
+.select-all{ overflow:hidden; font-size:16px; background: $grey-bg; padding: 15px 5px; width: 100%; position:relative;
+	div.delete{ float:left; width:4%; box-sizing:border-box; position: absolute; right: 17px; top: 10px;
+		.dell-icon{ background:url(images/svgs/delete_icon.svg) center center no-repeat; width:29px; height:34px; display:block; background-size: 70% auto;}
+	}
+}
+.w48{ width:48% !important;}
+.pro-wrapper{
+	overflow:hidden; padding:20px 5px; border:1px solid $grey-bg; background:$white;
+	div.select{ float:left; width:4%; margin-right:10px; box-sizing:border-box;	}
+	div.delete{ float:left; width:4%; box-sizing:border-box;
+		.dell-icon{ background:url(images/svgs/delete_icon.svg) center center no-repeat; width:29px; height:34px; display:block; background-size: 70% auto;}
+	}
+	.img-box{ float:left; width:35%;}
+	.pro-detail{float: left; width: 55%; margin-left: 10px; font-size: 16px;
+		h1 {
+			font-size: 16px;
+			color: #333333;
+			line-height: normal;
+			margin: 0;
+			font-weight: normal;
+			padding-bottom: 8px;
+		}
+		.selection{ color:$text-color;
+			span{color:$dark-grey;}
+		}
+		.unit-price{color:$text-color; font-size:18px; padding-top: 5px;
+			span{color:$dark-grey;}
+		}
+	}
+}
+
+.buy-brand-wrapper{
+	background:$white; padding-top: 20px; overflow:hidden; margin-bottom: 10px;
+	
+	.sub-total{ overflow: hidden; padding: 0 10px 10px 0px; font-size: 20px; float: right; min-width:330px;
+		.label{ float:left; text-align:left;
+			span{color:$text-color;}
+		}
+		.amount{ float: right; font-weight: bold; min-width: 160px; text-align: right;}
+	}
+	
+	.total{ overflow: hidden; padding: 0 10px 10px 0px; font-size: 20px; float: right; min-width:330px;
+		.label{ float:left; text-align:left;
+			span{color:$text-color;}
+		}
+		.amount{ float: right; font-weight: bold; min-width: 160px; text-align: right;}
+	}
+	.buy-btn{
+		background: $blue;
+    	color: $white;
+    	border: 2px solid $blue;
+		box-sizing: border-box;
+		text-transform: uppercase;
+		font-size: 20px;
+		display: block;
+		text-align: center;
+		margin: 0 5px;
+		line-height: 40px;
+		clear:both;
+	}
+}
+
+
+.buy-all-wrapper{
+	background:$white; padding-top: 20px; overflow:hidden; margin-bottom: 10px;
+	
+	.sub-total{ overflow: hidden; padding: 0 10px 10px 10px; font-size: 20px;
+		.label{ float:left; text-align:left;
+			span{color:$text-color;}
+		}
+		.amount{ float: right; font-weight: bold; min-width: 160px; text-align: right;}
+	}
+	.total{ overflow: hidden; padding: 0 10px 10px 10px; font-size: 20px;
+		.label{ float:left; text-align:left; font-size: 30px; font-weight: bold;
+			span{color:$text-color;}
+		}
+		.amount{ float: right; font-weight: bold; min-width: 160px; text-align: right; font-size: 30px;}
+	}
+	.buy-btn
+		{
+			background: $blue;
+			color: $white;
+			border: 2px solid $blue;
+			box-sizing: border-box;
+			text-transform: uppercase;
+			font-size: 20px;
+			display: block;
+			text-align: center;
+			margin: 0 5px;
+			line-height: 40px;
+			clear:both;
+		}
+}
+
+.buy-btn
+		{
+		background: $blue;
+		color: $white;
+		border: 2px solid $blue;
+		box-sizing: border-box;
+		text-transform: uppercase;
+		font-size: 20px;
+		display: block;
+		text-align: center;
+		line-height: 40px;
+		clear:both;
+	}

@@ -1,0 +1,158 @@
+
+.txt-b {
+  font-weight: bold;
+  color: #000;
+}
+
+
+
+.app-cartimatic {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.app-header-wrapper {
+  display: flex;
+  margin: 5px 10px;
+  align-items: center;
+  justify-content: space-between;
+}
+.app-logo {
+  width: 200px;
+}
+.cart-logo {
+  width: 40px;
+}
+
+
+/* App Content
+   ========================================================================== */
+.app-content {
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+.mein-menu {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.mein-menu-item {
+  padding: 10px 0;
+  font-weight: bold;
+  flex: 1;
+  text-align: center;
+  color: black;
+
+  &.flex2 {
+    flex: 2;
+  }
+}
+.content-wrapper {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
+.section-container {
+  margin: 10px 0;
+  background-color: #ffffff;
+  border: 1px solid $border-color;
+  overflow: hidden;
+}
+.section-header {
+  line-height: 30px;
+  padding: 0 10px;
+  overflow: hidden;
+  color: #000;
+  font-weight: bold;
+  border-bottom: 1px solid $border-color;
+
+  .section-title {
+    float: left;
+  }
+  .section-title-btn {
+    float: right;
+  }
+}
+.section-image-item {
+  width: 70%;
+  float: left;
+}
+.banner-sub-items{ width:30%;
+	.section-image-item{ width:100% !important; float:left !important;}
+}
+
+/* App Footer
+   ========================================================================== */
+.app-footer {
+  background-color: white;
+}
+.app-footer-wrapper {
+  display: flex;
+  margin: 5px 0;
+}
+.app-footer-item {
+  color: $text-color;
+  flex: 1;
+  text-align: center;
+  border-left: 1px solid $main-bg;
+
+  &:first-of-type {
+    border: none;
+  }
+
+  span.icon {
+    display: block;
+    width: 40px;
+    height: 40px;
+    margin: 0 auto;
+    background-image: url('../images/footer_sprite.svg');
+    background-repeat: no-repeat;
+    background-size: 40px auto;
+
+    &.home {
+      background-position: 0 0;
+    }
+    &.categories {
+      background-position: 0 -75px;
+    }
+    &.whishlist {
+      background-position: 0 -140px;
+    }
+    &.my-account {
+      background-position: 0 -205px;
+    }
+    &.more {
+      background-position: 0 -270px;
+    }
+  }
+}
+
+
+
+
+
+
+/* ----------- iPhone 4, 4S, 5 and 5S ----------- */
+@media only screen and (min-width : 320px) {
+
+  .app-footer-item {
+    font-size: 10px;
+  }
+}
+
+
+/* ----------- iPhone 6 ----------- */
+@media only screen and (min-width : 375px) {
+
+
+}
+
+
+/* ----------- iPhone 6+ ----------- */
+@media only screen and (min-width : 414px) {
+
+
+}
